@@ -1,0 +1,98 @@
+body {
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    font-style: italic;
+}
+
+main {
+    display: flex;
+    width: 100%;
+}
+
+#sec1 {
+    max-width: 20%;
+    margin: 0px 0px 0px 0px;
+    background-color: #db8300;
+    text-align: left;
+    line-height: 20px;
+}
+
+#sec1 p,
+#sec1 a {
+    color: white;
+    font-size: 16px;
+}
+
+#sec1 h2 {
+    font-size: 22px;
+    color: black;
+
+}
+
+#sec1 h3 {
+
+    font-size: 17px;
+    margin-left: 3px;
+    color: #ECD7C0;
+
+}
+
+#sec1 ul {
+    line-height: 18px;
+
+}
+
+
+#icone img{
+
+    max-width: 10%;
+    max-height: 10%;
+    align-content: center;
+    
+    justify-content: center;
+}
+
+
+.sec-info {
+    font-size: 20px;
+}
+
+#sec2 {
+    max-width: 45%;
+    text-align: left;
+    margin: 0% 0% 0% 15%;
+}
+
+#sec2 header {
+    background-color: rgba(128, 128, 128, 0.097);
+
+}
+
+#sec2 h2:last-child {
+
+    font-size: 25px
+}
+
+li {
+    list-style: none;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+    position: sticky;
+}
+
+strong {
+    font-size: 18px;
+    color: #dc9c23;
+}
+    
+
+.job-container h3{
+
+line-height: 3.5vh;
+}
